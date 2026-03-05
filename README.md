@@ -1,10 +1,10 @@
-#🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 A full-stack movie recommendation web application that allows users to search for movies, explore details, and discover similar films using intelligent recommendations.
 
 ---
 
-##This project combines:
+## This project combines:
 
 🧠 A Machine Learning similarity model (TF-IDF)
 
@@ -16,7 +16,7 @@ A full-stack movie recommendation web application that allows users to search fo
 
 ---
 
-##🚀 Live Concept Overview
+## 🚀 Live Concept Overview
 
 This system works like a mini Netflix-style explorer:
 
@@ -32,9 +32,9 @@ The system generates:
 
 ---
 
-##🧠 How Recommendations Work
+## 🧠 How Recommendations Work
 
-###1 Content-Based Filtering (TF-IDF)
+### 1 Content-Based Filtering (TF-IDF)
 
 Analyzes movie descriptions.
 
@@ -55,7 +55,7 @@ DC universe films
 
 ---
 
-###2 Genre-Based Recommendations
+### 2 Genre-Based Recommendations
 
 Extracts the movie's main genre.
 
@@ -65,7 +65,7 @@ Provides broader suggestions within the same category.
 
 ---
 
-##🛠️Tech Stack:
+## 🛠️Tech Stack:
 
 Pandas/Numpy
 
@@ -79,6 +79,6 @@ TMDB API
 
 ---
 
-#📌 Summary (In One Paragraph)
+# 📌 Summary (In One Paragraph)
 
 This project is a smart movie recommendation web application that allows users to search for movies, view detailed information, and receive personalized recommendations. It combines a machine learning similarity model (TF-IDF) with real-time movie data from TMDB. The backend is built with FastAPI, and the user interface is built with Streamlit, creating a complete full-stack AI-powered application.
